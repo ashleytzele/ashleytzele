@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&center=true&vCenter=true&width=720&height=60&duration=3500&pause=800&lines=Hi%2C+I'm+Ashley+Sum+%F0%9F%91%8B;I+build+software+and+prove+it+works.;SWE+%C2%B7+AI+%C2%B7+Forward-Deployed+Eng." alt="Hi, I'm Ashley Sum. I build software and prove it works. SWE, AI and forward-deployed engineering." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&center=true&vCenter=true&width=720&height=60&duration=3500&pause=800&lines=Hi%2C+I'm+Ashley+Sum+%F0%9F%91%8B;I+build+software+and+prove+it+works." alt="Hi, I'm Ashley Sum. I build software and prove it works." />
 </h1>
 
 <h3 align="center">CS @ San Francisco State (GPA 4.00) · Software engineer who ships, measures and proves it</h3>
@@ -11,8 +11,6 @@
   <a href="https://linkedin.com/in/ashley-sum" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://ashleytzelesum.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://gatorpath.fly.dev" target="_blank"><img src="https://img.shields.io/badge/Live-GatorPath-F59E0B?style=for-the-badge&logo=flydotio&logoColor=white" alt="GatorPath live" /></a>
-  <br/>
-  <a href="https://github.com/ashleytzele/ashleytzele/actions/workflows/links.yml"><img src="https://github.com/ashleytzele/ashleytzele/actions/workflows/links.yml/badge.svg" alt="Every link on this page, checked weekly" /></a>
 </div>
 
 <hr/>
