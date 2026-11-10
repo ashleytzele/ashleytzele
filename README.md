@@ -1,9 +1,10 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-    <img src="assets/banner-light.svg" width="880" alt="Ashley Sum. CS at San Francisco State. Results board: GatorPath 0 hallucinated course codes and 53% fewer tokens per answer; OSPIT 90% fewer outage tickets; Quorum 5 to 8 times faster transcription. The AI suggests. The code verifies." />
-  </picture>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&center=true&vCenter=true&width=600&height=60&duration=3500&pause=800&lines=Hi%2C+I'm+Ashley+Sum+%F0%9F%91%8B;The+AI+suggests.+The+code+verifies." alt="Hi, I'm Ashley Sum. The AI suggests. The code verifies." />
+</h1>
+
+<h3 align="center">CS @ San Francisco State (GPA 4.00) · Software engineer building AI systems you can check</h3>
+
+<p align="center">Open to <b>Summer 2027</b> software engineering and AI engineering internships.</p>
 
 <div align="center">
   <a href="mailto:ashleysumtzele04@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" /></a>
